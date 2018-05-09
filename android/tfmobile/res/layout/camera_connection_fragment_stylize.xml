@@ -17,11 +17,13 @@
       android:orientation="vertical"
       android:layout_width="match_parent"
       android:layout_height="match_parent">
+
   <org.tensorflow.demo.AutoFitTextureView
-    android:id="@+id/texture"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_alignParentTop="true" />
+      android:id="@+id/texture"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_alignParentTop="true" />
+
 
   <RelativeLayout
     android:id="@+id/black"
@@ -29,13 +31,15 @@
     android:layout_height="match_parent"
     android:background="#FF000000" />
 
+
   <GridView
-    android:id="@+id/grid_layout"
-    android:numColumns="7"
-    android:stretchMode="columnWidth"
-    android:layout_alignParentBottom="true"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content" />
+      android:id="@+id/grid_layout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_alignParentBottom="true"
+      android:numColumns="7"
+      android:stretchMode="columnWidth" />
+
 
   <org.tensorflow.demo.OverlayView
       android:id="@+id/overlay"
@@ -48,4 +52,5 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_alignParentTop="true" />
+
 </RelativeLayout>

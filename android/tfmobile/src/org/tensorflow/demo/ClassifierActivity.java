@@ -71,7 +71,8 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
   private static final int IMAGE_MEAN = 128;
   private static final float IMAGE_STD = 128.0f;
   private static final String INPUT_NAME = "input";
-  private static final String OUTPUT_NAME = "MobilenetV1/Predictions/Softmax";
+  //private static final String OUTPUT_NAME = "MobilenetV1/Predictions/Softmax";
+  private static final String OUTPUT_NAME = "final_result";
 
   private static final String MODEL_FILE = "file:///android_asset/graph.pb";
   private static final String LABEL_FILE = "file:///android_asset/labels.txt";
@@ -80,7 +81,7 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
 
   private static final boolean MAINTAIN_ASPECT = true;
 
-  private static final Size DESIRED_PREVIEW_SIZE = new Size(640, 480);
+  private static final Size DESIRED_PREVIEW_SIZE = new Size(1920, 1080);
 
   private Classifier classifier;
 

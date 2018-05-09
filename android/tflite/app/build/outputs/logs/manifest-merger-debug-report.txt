@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+MERGED from [com.android.support:design:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f2e7c7bcc62f2f4f695d42cf5084bc05/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8780439d6e792560281f1b8c0269d84a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24b820f03fd6981fe62344006797fe2e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/3b2e0a6f7a650f9bc981263d33bd615b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e39eebf8fd11a60d83b401e219c153f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2f47bd123df614d6b208cfe0a4418e9b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/2fec71b370b163f4567f0476eb4db6ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/72152e12520e0a558f92a5ff53799d05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/56241f0adcc00405e78d320edd44ccfd/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/186376be23e5c00d0f23dedd59685bb2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a60f642497bb7dae0668d660ff9cd678/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/62e4cd1dc585153df6e0b3ef4b2f9455/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e8c7db617e8df4d56744e5fc4c25b2d6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f9fa780fcab113795c96868512957fa6/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.7.aar/6f0deec2b3dd2bf2ef4b048d5bbd2b7c/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support:design:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f2e7c7bcc62f2f4f695d42cf5084bc05/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f2e7c7bcc62f2f4f695d42cf5084bc05/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8780439d6e792560281f1b8c0269d84a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8780439d6e792560281f1b8c0269d84a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24b820f03fd6981fe62344006797fe2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24b820f03fd6981fe62344006797fe2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/3b2e0a6f7a650f9bc981263d33bd615b/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/3b2e0a6f7a650f9bc981263d33bd615b/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e39eebf8fd11a60d83b401e219c153f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e39eebf8fd11a60d83b401e219c153f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2f47bd123df614d6b208cfe0a4418e9b/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2f47bd123df614d6b208cfe0a4418e9b/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/2fec71b370b163f4567f0476eb4db6ff/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/2fec71b370b163f4567f0476eb4db6ff/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/72152e12520e0a558f92a5ff53799d05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/72152e12520e0a558f92a5ff53799d05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/56241f0adcc00405e78d320edd44ccfd/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/56241f0adcc00405e78d320edd44ccfd/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/186376be23e5c00d0f23dedd59685bb2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/186376be23e5c00d0f23dedd59685bb2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a60f642497bb7dae0668d660ff9cd678/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a60f642497bb7dae0668d660ff9cd678/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/62e4cd1dc585153df6e0b3ef4b2f9455/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/62e4cd1dc585153df6e0b3ef4b2f9455/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e8c7db617e8df4d56744e5fc4c25b2d6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e8c7db617e8df4d56744e5fc4c25b2d6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f9fa780fcab113795c96868512957fa6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f9fa780fcab113795c96868512957fa6/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f2e7c7bcc62f2f4f695d42cf5084bc05/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support:design:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f2e7c7bcc62f2f4f695d42cf5084bc05/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f2e7c7bcc62f2f4f695d42cf5084bc05/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8780439d6e792560281f1b8c0269d84a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8780439d6e792560281f1b8c0269d84a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24b820f03fd6981fe62344006797fe2e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24b820f03fd6981fe62344006797fe2e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/3b2e0a6f7a650f9bc981263d33bd615b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/3b2e0a6f7a650f9bc981263d33bd615b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e39eebf8fd11a60d83b401e219c153f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e39eebf8fd11a60d83b401e219c153f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2f47bd123df614d6b208cfe0a4418e9b/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2f47bd123df614d6b208cfe0a4418e9b/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/72152e12520e0a558f92a5ff53799d05/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/72152e12520e0a558f92a5ff53799d05/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/56241f0adcc00405e78d320edd44ccfd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/56241f0adcc00405e78d320edd44ccfd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/186376be23e5c00d0f23dedd59685bb2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/186376be23e5c00d0f23dedd59685bb2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a60f642497bb7dae0668d660ff9cd678/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a60f642497bb7dae0668d660ff9cd678/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/62e4cd1dc585153df6e0b3ef4b2f9455/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/62e4cd1dc585153df6e0b3ef4b2f9455/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e8c7db617e8df4d56744e5fc4c25b2d6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e8c7db617e8df4d56744e5fc4c25b2d6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f9fa780fcab113795c96868512957fa6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f9fa780fcab113795c96868512957fa6/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.7.aar/6f0deec2b3dd2bf2ef4b048d5bbd2b7c/AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /Users/aeriel/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.7.aar/6f0deec2b3dd2bf2ef4b048d5bbd2b7c/AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:37:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/aeriel/Desktop/Projects/Tensorflow Emotion Recognition/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE

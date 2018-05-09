@@ -17,6 +17,7 @@ package org.tensorflow.demo;
 
 import android.content.Context;
 import android.graphics.Canvas;
+import android.graphics.Color;
 import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.util.TypedValue;
@@ -27,7 +28,7 @@ import org.tensorflow.demo.Classifier.Recognition;
 import java.util.List;
 
 public class RecognitionScoreView extends View implements ResultsView {
-  private static final float TEXT_SIZE_DIP = 24;
+  private static final float TEXT_SIZE_DIP = 18;
   private List<Recognition> results;
   private final float textSizePx;
   private final Paint fgPaint;
@@ -40,10 +41,11 @@ public class RecognitionScoreView extends View implements ResultsView {
         TypedValue.applyDimension(
             TypedValue.COMPLEX_UNIT_DIP, TEXT_SIZE_DIP, getResources().getDisplayMetrics());
     fgPaint = new Paint();
+    fgPaint.setColor(Color.WHITE);
     fgPaint.setTextSize(textSizePx);
 
     bgPaint = new Paint();
-    bgPaint.setColor(0xcc4285f4);
+    bgPaint.setColor(0xffffff);
   }
 
   @Override
@@ -53,16 +55,23 @@ public class RecognitionScoreView extends View implements ResultsView {
   }
 
   @Override
-  public void onDraw(final Canvas canvas) {
+  public void onDraw(final Canvas canvas)
+  {
     final int x = 10;
     int y = (int) (fgPaint.getTextSize() * 1.5f);
 
     canvas.drawPaint(bgPaint);
 
-    if (results != null) {
-      for (final Recognition recog : results) {
-        canvas.drawText(recog.getTitle() + ": " + recog.getConfidence(), x, y, fgPaint);
+    if (results != null)
+    {
+      for (final Recognition recog : results)
+      {
+        canvas.drawText("  " + recog.getTitle() + ": " + recog.getConfidence(), x, y, fgPaint);
         y += fgPaint.getTextSize() * 1.5f;
+        /*
+        canvas.drawText("  " + recog.getTitle() + ": " + recog.getConfidence(), x, y, fgPaint);
+        y += fgPaint.getTextSize() * 1.5f;
+         */
       }
     }
   }
